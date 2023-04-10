@@ -2,6 +2,10 @@
 
 题目地址：[Coggle竞赛](https://competition.coggle.club/)
 
+![](A619633CBE68C6D4C537A5EAE89A1860.webp)
+
+项目地址: [基于LightGBM实现银行客户信用违约预测](https://link.juejin.cn/?target=https%3A%2F%2Faistudio.baidu.com%2Faistudio%2Fprojectdetail%2F5926883 "https://aistudio.baidu.com/aistudio/projectdetail/5926883")
+
 ## 1.赛题介绍
 
 信用评分卡（金融风控）是金融行业和通讯行业常见的风控手段，通过对客户提交的个人信息和数据来预测未来违约的可能性。对客户进行信用评分是一个常见的分类问题。
@@ -762,5 +766,4 @@ print(test.columns)
 
 ![](https://ai-studio-static-online.cdn.bcebos.com/97effc0bdd7b4dfa8681374d6877a62daff8fa6a6e3f47e0be99efa38892cc8c)
 
-#   B a n k _ c u s t o m e r _ c r e d i t _ d e f a u l t _ f o r e c a s t  
- 
+![](307E709B29777049D8AF887E3B27BAB6.webp)
